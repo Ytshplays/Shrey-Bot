@@ -226,3 +226,210 @@
                     <td>30 days</td>
                     <td>Debugging and support purposes</td>
                 </tr>
+                <tr>
+                    <td>Error Logs</td>
+                    <td>90 days</td>
+                    <td>Technical troubleshooting</td>
+                </tr>
+                <tr>
+                    <td>User Preferences</td>
+                    <td>Until bot removal or user request</td>
+                    <td>Maintaining user settings</td>
+                </tr>
+                <tr>
+                    <td>Analytics Data</td>
+                    <td>12 months (anonymized)</td>
+                    <td>Service improvement</td>
+                </tr>
+                <tr>
+                    <td>Safety Logs</td>
+                    <td>2 years</td>
+                    <td>Security and abuse prevention</td>
+                </tr>
+            </table>
+
+            <p>When the bot is removed from a server, all associated data is automatically deleted within 7 days unless retention is required for legal compliance or safety purposes[25].</p>
+        </div>
+
+        <div class="section">
+            <h2>8. Your Privacy Rights</h2>
+            <p>Depending on your location, you may have the following rights regarding your personal data:</p>
+            
+            <div class="legal-basis">
+                <h3>General Rights:</h3>
+                <ul>
+                    <li><strong>Right to Access:</strong> Request copies of your personal data</li>
+                    <li><strong>Right to Rectification:</strong> Request correction of inaccurate data</li>
+                    <li><strong>Right to Erasure:</strong> Request deletion of your personal data</li>
+                    <li><strong>Right to Restrict Processing:</strong> Request limitation of data processing</li>
+                    <li><strong>Right to Data Portability:</strong> Receive your data in a portable format</li>
+                    <li><strong>Right to Object:</strong> Object to certain types of processing</li>
+                </ul>
+
+                <h3>Additional Rights (EU/UK Users under GDPR):</h3>
+                <ul>
+                    <li><strong>Right to Withdraw Consent:</strong> Withdraw consent for processing at any time</li>
+                    <li><strong>Right to Lodge a Complaint:</strong> File complaints with data protection authorities</li>
+                    <li><strong>Right to Automated Decision Making:</strong> Protection against automated decision making</li>
+                </ul>
+
+                <h3>Indian Users (under DPDPA 2023):</h3>
+                <ul>
+                    <li><strong>Right to Confirmation:</strong> Confirm whether personal data is being processed</li>
+                    <li><strong>Right to Nomination:</strong> Nominate someone to exercise rights in case of death or incapacity</li>
+                    <li><strong>Right to Grievance Redressal:</strong> Access to grievance mechanisms</li>
+                </ul>
+            </div>
+
+            <p>To exercise any of these rights, please contact us through appropriate Discord channels or community forums.</p>
+        </div>
+
+        <div class="section">
+            <h2>9. Children's Privacy</h2>
+            <p>Shrey Bot complies with children's privacy protection requirements:</p>
+            
+            <ul>
+                <li>The bot follows Discord's minimum age requirements (13+ in most jurisdictions)</li>
+                <li>We do not knowingly collect personal information from children under 13</li>
+                <li>Enhanced protection measures apply to users identified as minors</li>
+                <li>Parents/guardians can request deletion of their child's data</li>
+                <li>We comply with applicable child protection laws including COPPA and GDPR provisions for children</li>
+            </ul>
+
+            <div class="important">
+                <strong>Note:</strong> If you become aware that a child under 13 has provided us with personal information, please contact us immediately so we can delete such information.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>10. Data Security</h2>
+            <p>We implement appropriate technical and organizational measures to protect your personal data:</p>
+            
+            <ul>
+                <li><strong>Encryption:</strong> Data transmission and storage encryption</li>
+                <li><strong>Access Controls:</strong> Restricted access to personal data on a need-to-know basis</li>
+                <li><strong>Regular Audits:</strong> Periodic security assessments and updates</li>
+                <li><strong>Data Minimization:</strong> Collection and processing of only necessary data</li>
+                <li><strong>Secure Infrastructure:</strong> Industry-standard security practices</li>
+                <li><strong>Incident Response:</strong> Procedures for handling data breaches</li>
+            </ul>
+
+            <p>However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee absolute security.</p>
+        </div>
+
+        <div class="section">
+            <h2>11. Cookies and Tracking</h2>
+            <p>Shrey Bot does not use cookies or web tracking technologies. However, Discord itself may use cookies and tracking mechanisms in accordance with their own Privacy Policy[1].</p>
+            
+            <p>Our bot only processes data necessary for its functionality within the Discord platform.</p>
+        </div>
+
+        <div class="section">
+            <h2>12. Third-Party Services</h2>
+            <p>Shrey Bot integrates with the following third-party services:</p>
+            
+            <ul>
+                <li><strong>Discord API:</strong> For all bot interactions and functionality</li>
+                <li><strong>Hosting Services:</strong> For bot infrastructure (with appropriate data protection agreements)</li>
+            </ul>
+
+            <p>These services have their own privacy policies, and we recommend reviewing them. We are not responsible for the privacy practices of third-party services.</p>
+        </div>
+
+        <div class="section">
+            <h2>13. Cross-Border Data Transfers</h2>
+            <p>Your data may be transferred to and processed in countries other than your own. When we transfer data internationally, we ensure:</p>
+            
+            <ul>
+                <li>Appropriate safeguards are in place as required by applicable law</li>
+                <li>Data protection standards are maintained</li>
+                <li>Compliance with applicable cross-border transfer regulations</li>
+                <li>Use of standard contractual clauses where required</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>14. Data Breach Notification</h2>
+            <p>In the event of a data breach that poses risks to your rights and freedoms, we will:</p>
+            
+            <ul>
+                <li>Notify relevant data protection authorities within 72 hours (where required by law)</li>
+                <li>Inform affected users without undue delay</li>
+                <li>Provide clear information about the breach and steps being taken</li>
+                <li>Offer guidance on protective measures users can take</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>15. Automated Decision Making</h2>
+            <p>Shrey Bot may use automated processing for:</p>
+            
+            <ul>
+                <li>Spam detection and prevention</li>
+                <li>Command processing and responses</li>
+                <li>Basic content moderation</li>
+            </ul>
+
+            <p>You have the right to object to automated decision-making and request human intervention where such decisions significantly affect you.</p>
+        </div>
+
+        <div class="section">
+            <h2>16. Changes to This Privacy Policy</h2>
+            <p>We may update this Privacy Policy from time to time. When we make changes:</p>
+            
+            <ul>
+                <li>The updated policy will be posted with a new "Last updated" date</li>
+                <li>Significant changes will be communicated through appropriate channels</li>
+                <li>Continued use of the bot after changes constitutes acceptance</li>
+                <li>For material changes affecting GDPR rights, we will seek renewed consent where required</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>17. Compliance and Regulatory Framework</h2>
+            <p>This Privacy Policy is designed to comply with:</p>
+            
+            <ul>
+                <li><strong>EU GDPR</strong> (General Data Protection Regulation)</li>
+                <li><strong>UK GDPR</strong> and Data Protection Act 2018</li>
+                <li><strong>India DPDPA 2023</strong> (Digital Personal Data Protection Act)</li>
+                <li><strong>Discord Developer Policy</strong> and Terms of Service</li>
+                <li><strong>COPPA</strong> (Children's Online Privacy Protection Act)</li>
+                <li>Other applicable local data protection laws</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>18. Grievance Redressal</h2>
+            <p>For users in India, as per DPDPA 2023 requirements:</p>
+            
+            <ul>
+                <li>We provide mechanisms for grievance redressal</li>
+                <li>Complaints will be acknowledged and addressed promptly</li>
+                <li>Users can escalate unresolved issues to the Data Protection Authority</li>
+                <li>Contact information for grievances is provided in the contact section below</li>
+            </ul>
+        </div>
+
+        <div class="contact-info">
+            <h2>19. Contact Information</h2>
+            <p>If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+            
+            <p><strong>For General Inquiries:</strong> Through appropriate Discord channels or community forums</p>
+            <p><strong>For Data Protection Requests:</strong> Please clearly indicate "Privacy Request" in your communication</p>
+            <p><strong>For Indian Users (DPDPA Grievances):</strong> Indicate "DPDPA Grievance" in your communication</p>
+            
+            <div class="important">
+                <strong>Response Time:</strong> We aim to respond to all privacy-related inquiries within 30 days, or as required by applicable law.
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>20. Effective Date and Acknowledgment</h2>
+            <p>This Privacy Policy is effective as of July 19, 2025, and applies to all users of Shrey Bot.</p>
+            
+            <p><strong>By using Shrey Bot, you acknowledge that you have read, understood, and agree to be bound by this Privacy Policy.</strong></p>
+        </div>
+    </div>
+</body>
+</html>
